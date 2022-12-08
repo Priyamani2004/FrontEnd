@@ -17,3 +17,5 @@ Array.prototype.cube=function(){
     }
    return count;
 }
+
+console.log("hi")
